@@ -1,0 +1,11 @@
+c:\Users\Grzegorz\documents\visual studio 2015\Projects\ZadB9\Logika\bin\Debug\Logika.dll
+c:\Users\Grzegorz\documents\visual studio 2015\Projects\ZadB9\Logika\bin\Debug\Logika.pdb
+c:\Users\Grzegorz\documents\visual studio 2015\Projects\ZadB9\Logika\obj\Debug\Logika.csprojResolveAssemblyReference.cache
+c:\Users\Grzegorz\documents\visual studio 2015\Projects\ZadB9\Logika\obj\Debug\Logika.dll
+c:\Users\Grzegorz\documents\visual studio 2015\Projects\ZadB9\Logika\obj\Debug\Logika.pdb
+C:\Users\Łukasz\Downloads\ZadanieB9_WF\ZadB9\Logika\bin\Debug\Logika.dll
+C:\Users\Łukasz\Downloads\ZadanieB9_WF\ZadB9\Logika\bin\Debug\Logika.pdb
+C:\Users\Łukasz\Downloads\ZadanieB9_WF\ZadB9\Logika\obj\Debug\Logika.csprojAssemblyReference.cache
+C:\Users\Łukasz\Downloads\ZadanieB9_WF\ZadB9\Logika\obj\Debug\Logika.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Downloads\ZadanieB9_WF\ZadB9\Logika\obj\Debug\Logika.dll
+C:\Users\Łukasz\Downloads\ZadanieB9_WF\ZadB9\Logika\obj\Debug\Logika.pdb
